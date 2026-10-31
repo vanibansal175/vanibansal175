@@ -27,7 +27,7 @@
 
 <a href="https://github.com/vanibansal175">
 <img src="https://img.shields.io/badge/GitHub-171923?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a><br><br>
 <a href="(https://www.linkedin.com/in/vani-b-a5256729a/)">
 <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
