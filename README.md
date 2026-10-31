@@ -21,7 +21,7 @@
 
 ### Software Developer · Problem Solver · Curious Builder
 
-*Turning ideas into things that work.*
+
 
 <br/>
 
@@ -36,14 +36,13 @@
 </a>
 
 </div>
----
 
 <!-- ===================== ABOUT ===================== -->
 
 
 <!-- ===================== TECH STACK ===================== -->
 
-## ◈ Things I work with
+## ◈ Tech Stack
 
 ### Languages / Libraries
 
